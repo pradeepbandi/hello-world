@@ -1,3 +1,3 @@
 # hello-world
 learning
-pradep kumar bandi
+pradeep kumar bandi
